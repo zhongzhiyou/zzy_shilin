@@ -1,5 +1,3 @@
-# zzy_shilin
-the project for shilin
 
 ### 组织结构
 
